@@ -14,7 +14,7 @@ Esta API foi desenvolvida para ajudar um amigo que possui uma vasta coleção de
 ## Como Usar
 Para começar a usar a Inventory Value API, siga os passos abaixo:
 
-1. Clone o repositório: git clone: `...`
+1. Clone o repositório: git clone: `https://github.com/oArthur/cs_inventory_price_api.git`
 2. Navegue até o diretório do projeto: `cd cs_api` 
 3. Instale as dependências necessárias: `pip install -r requirements.txt`
 4. Inicie o servidor: `uvicorn app:main --reload`
