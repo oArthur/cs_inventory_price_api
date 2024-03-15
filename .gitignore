@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Pytest
+.cache
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+db*.sqlite3
+
+# Linux specific
+.*swp
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+
+# Data files
+*.csv
+*.json
+
+# Database files
+*.db
+*.sql
+
+# Output files
+output/
+
+# Node modules if using JavaScript build tools
+node_modules/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
